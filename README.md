@@ -1,4 +1,4 @@
-# Node.js Best Practices
+# Node.js开发实战 Node.js Best Practices
 
 我和朋友最近翻译了Pragmaitc Programmers的《Node.js开发实战》。原书在美国亚马逊书店排名并发编程类榜首。我们用了大半年时间，尽可能翻译得通顺易懂，不让读者失望。目前收到的读者反馈还不赖。第一次翻译书，不足之处请大家指正。
 
